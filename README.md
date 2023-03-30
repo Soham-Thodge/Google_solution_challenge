@@ -1,1 +1,0 @@
-# Google_solution_challenge
