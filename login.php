@@ -1,0 +1,71 @@
+ <!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <title>Dabewallah Login</title>
+  <link rel="stylesheet" href="Dabewallah.css">
+</head>
+
+<body>
+  <div class="container login_card">
+    <form action="insert_login.php" method="post">
+      <form>
+        <div class="container">
+          <div class="row">
+            <div class="col-3">
+
+            </div>
+            <div class="col-6 Logtitle">
+              <p>Dabewallah</p>
+            </div>
+            <div class="col-3">
+
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-1">
+            </div>
+            <div class="col-9">
+          <!--email start-->
+          <div class="form-check mt-5">
+            <p>
+              <input class="Email1" name="Email" type="email" class="form-control mt-2" id="exampleInputEmail1"
+                placeholder="Enter your email address">
+            </p>
+          </div>
+          <!--email ends-->
+
+          <!--password start-->
+          <div class="form-check mt-5">
+            <p>
+              <input class="pwd1" name="Password" type="password" class="form-control mt-2" id="exampleInputPassword1"
+                placeholder="Enter your Password">
+            </p>
+          </div>
+          <!--password ends-->
+          <div class="form-check mt-5">
+            <input class="Remember" type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Remember me</label>
+          </div>
+          <a  href="customer_options.php">Login</a>
+          </div>
+          <div class="col-2">
+          </div>
+          </div>
+        </div>
+      </form>
+    </form>
+  </div>
+</body>
+
+</html>

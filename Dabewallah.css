@@ -1,0 +1,321 @@
+.btn-login{
+    background-color:white;
+    color:black;
+    width:100px;
+    height:40px;
+    border:none;
+    border-radius:20px;
+    border:1px solid rgb(22, 198, 230);
+    cursor:pointer;
+}
+.font-title{
+    font-size:80px;
+    font-weight:bold;
+}
+.subtitle{
+    font-size:30px;
+}
+.Main-img{
+    height:500px;
+    width:500px;
+    border:2px; 
+    border-color: black;
+    margin-left:100px;
+    margin-top:40px;
+}
+.btn-main{
+    background-color:rgb(22, 198, 230);
+    color:white;
+    padding:20px;
+    text-decoration: none;
+    border-radius: 30px;
+    padding-right:50px;
+    padding-left:50px;
+    margin-top:70px;
+    cursor:pointer;
+}
+.btn-main:hover{
+    color:rgb(22, 198, 230);
+    background-color: rgb(113, 247, 247);
+    transition:0.3s;
+}
+.btn-main:active{
+    color:white;
+    background-color: rgb(22,198,230);
+}
+.card-title{
+    text-align:center;
+}
+.btn-card1,.btn-card2{
+    background-color:rgb(22, 198, 230);
+    color:white;
+    width:100px;
+    height:40px;
+    border:none;
+    border-radius:20px;
+    margin-left:125px;
+    cursor:pointer;
+}
+.nav-link{
+    font-size:16px;
+    color:rgb(49, 48, 48);
+}
+.about-text{
+    font-size:20px;
+}
+.font-about-us{
+    font-size:50px;
+}
+.servicepage{
+    background-color:rgb(255, 255, 255) ;
+}
+.aboutpage{
+    background-color: rgb(98, 167, 207);
+    margin-bottom:0px;
+}
+.contact{
+  height:150px;
+  align-self: center;
+  margin-left:100px;
+  margin-bottom: 50px;
+}
+.phonenum{
+    margin-top:10px;
+}
+.mail{
+    margin-top:23px;
+}
+.Email{
+    width:400px;
+}
+.Email1{
+    width:400px;
+    margin-left:-80px;
+}
+.pwd{
+    width:400px;
+}
+.pwd1{
+    width:400px;
+    margin-left:-80px;
+}
+.connumber{
+    width:400px;
+}
+.Remember{
+     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     margin-bottom:20px;
+     margin-left:-80px;
+}
+
+.Login:hover{
+    color:rgb(22, 198, 230);
+    background-color: rgb(113, 247, 247);
+    transition:0.3s;
+    cursor:pointer;
+}
+.Login:active{
+    color:white;
+    background-color: rgb(22,198,230);
+}
+.Logtitle{
+    margin-top:5px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:25px;
+    font-weight:bold;
+}
+.Name{
+    width:400px;
+}
+.address{
+    width:400px;
+}
+.dablog{
+    width:800px;
+    height:543px;
+    margin-top:100px;
+}
+.Main_logo1{
+    width:40px;
+    height:40px;
+    border:none;
+    border-radius:10px;
+    margin-left:40px;
+    margin-right:10px;
+}
+.Main_logo2{
+    width:400px;
+    height:300px;
+}
+.customer_card{
+    margin-top:100px;
+    box-sizing: border-box;
+    border:2px solid black;
+    margin-bottom:100px;
+    width:850px;
+    height:850px;
+}
+.login_card{
+    margin-top:100px;
+    box-sizing: border-box;
+    border:2px solid black;
+    margin-bottom:100px;
+    width:500px;
+    height:450px;
+}
+.tiffindelivery_card{
+    margin-top:30px;
+    box-sizing: border-box;
+    border:2px solid black;
+    margin-bottom:100px;
+    width:700px;
+    height:860px;
+}
+.footer{
+    background-color: hsl(199, 95%, 31%);
+    color:white;
+}
+.linkedin{
+    margin-left:-150px;
+    margin-bottom:20px;
+    cursor:pointer;
+    text-decoration: none;
+}
+.google_developer{
+    height:60px;
+    width:60px;
+    margin-left:640px;
+    margin-bottom:20px;
+    cursor:pointer;
+}
+.github{
+    height:60px;
+    width:60px;
+    margin-left:150px;
+    margin-bottom:20px;
+    cursor:pointer;
+}
+.Endline{
+    text-align: center;
+    font-size:25px;
+}
+.exampleInputEmail1{
+    text-align: left;
+}
+.about_us:hover{
+    text-decoration: underline;
+}
+.contact_us:hover{
+    text-decoration: underline;
+}
+.cust_opt{
+    height:1000px;
+    width:1900px;
+    margin-left:-600px;
+    margin-top:-200px;
+}
+.home{
+    height:50px;
+    width:50px;
+}
+.nav_logo{
+    height:70px;
+    width:90px;
+}
+.tiffin_options{
+    background-color: rgb(5, 157, 228);
+}
+.veg_tiffin{
+    background-color:rgb(4, 230, 211);
+    margin-top:-100px;
+}
+.nonveg_tiffin{
+    background-color:rgb(37, 105, 252);
+    margin-top:100px;
+}
+.special_tiffin{
+    background-color:rgb(6, 180, 180);
+    margin-top:100px;
+}
+.try_it{
+    background-color:rgb(22, 198, 230);
+    color:white;
+    width:100px;
+    height:40px;
+    border:none;
+    border-radius:20px;
+    margin-left:125px;
+    cursor:pointer;
+}
+.try_it:hover{
+    background-color:white;
+    border:1px solid black;
+    color:rgb(22,198,230);
+    transition:0.3s;
+}
+.service_section{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:30px;
+    font-weight:bold;
+}
+.veg-tiffin{
+    margin-left:50px;
+    background-color: rgb(5, 182, 173);
+    color:white;
+    border:1px solid black;
+    width:200px;
+    height:70px;
+    text-decoration: none;
+    margin-left:200px;
+}
+.veg-tiffin:hover{
+    cursor:pointer;
+    background-color: white;
+    color:rgb(5,182,173);
+    transition:0.3s;
+}
+.nonveg-tiffin{
+    margin-left:50px;
+    background-color: rgb(5, 182, 173);
+    color:white;
+    border:1px solid black;
+    width:200px;
+    height:70px;
+    text-decoration: none;
+    margin-left:140px;
+}
+.nonveg-tiffin:hover{
+    cursor:pointer;
+    background-color: white;
+    color:rgb(5,182,173);
+    transition:0.3s;
+}
+.special-tiffin{
+    margin-left:50px;
+    background-color: rgb(5, 182, 173);
+    color:white;
+    border:1px solid black;
+    width:200px;
+    height:70px;
+    text-decoration: none;
+    margin-left:100px;
+}
+.special-tiffin:hover{
+    cursor:pointer;
+    background-color: white;
+    color:rgb(5,182,173);
+    transition:0.3s;
+}
+.main{
+    margin-top:180px;
+}
+.service{
+    height:250px;
+    width:250px;
+    margin-left:200px;
+    margin-bottom:50px;
+    border-radius: 40px;
+}
+.log_mail{
+text-align: left;;
+}
