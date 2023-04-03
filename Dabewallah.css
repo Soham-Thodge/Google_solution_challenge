@@ -107,7 +107,15 @@
      margin-bottom:20px;
      margin-left:-80px;
 }
-
+.Login{
+    background-color:rgb(22, 198, 230);
+    color:white;
+    width:100px;
+    height:40px;
+    cursor:pointer;
+    border:none;
+    border-radius:20px;
+}
 .Login:hover{
     color:rgb(22, 198, 230);
     background-color: rgb(113, 247, 247);
@@ -154,6 +162,7 @@
     margin-bottom:100px;
     width:850px;
     height:850px;
+    border-radius:50px;
 }
 .login_card{
     margin-top:100px;
@@ -162,6 +171,7 @@
     margin-bottom:100px;
     width:500px;
     height:450px;
+    border-radius:50px;
 }
 .tiffindelivery_card{
     margin-top:30px;
@@ -170,6 +180,7 @@
     margin-bottom:100px;
     width:700px;
     height:860px;
+    border-radius:50px;
 }
 .footer{
     background-color: hsl(199, 95%, 31%);
@@ -267,6 +278,8 @@
     height:70px;
     text-decoration: none;
     margin-left:200px;
+    border:none;
+    border-radius:40px;
 }
 .veg-tiffin:hover{
     cursor:pointer;
@@ -283,6 +296,8 @@
     height:70px;
     text-decoration: none;
     margin-left:140px;
+    border:none;
+    border-radius:40px;
 }
 .nonveg-tiffin:hover{
     cursor:pointer;
@@ -299,6 +314,8 @@
     height:70px;
     text-decoration: none;
     margin-left:100px;
+    border:none;
+    border-radius:40px;
 }
 .special-tiffin:hover{
     cursor:pointer;
