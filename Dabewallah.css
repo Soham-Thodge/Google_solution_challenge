@@ -336,3 +336,39 @@
 .log_mail{
 text-align: left;;
 }
+/* Add these media queries to your existing CSS file */
+
+/* Small devices (phones) */
+@media (max-width: 576px) {
+  /* Center the main logo */
+  .Main_logo1 {
+    display: block;
+    margin: 0 auto;
+  }
+
+  /* Adjust padding for the about page */
+  .aboutpage {
+    padding: 20px;
+  }
+
+  /* Adjust margin for the "Our services" section */
+  .servicepage {
+    margin-top: 50px;
+  }
+}
+
+/* Medium devices (tablets) */
+@media (min-width: 577px) and (max-width: 992px) {
+  /* Adjust margin for the "About us" section */
+  .aboutpage {
+    margin-top: 50px;
+  }
+}
+
+/* Large devices (desktops) */
+@media (min-width: 993px) {
+  /* Adjust margin for the "About us" section */
+  .aboutpage {
+    margin-top: 100px;
+  }
+}
